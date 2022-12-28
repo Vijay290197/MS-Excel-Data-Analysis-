@@ -1,0 +1,6 @@
+You need to plot 4 easy features by using One Month Data set i.e., HistoricalData_1638531618978.xlsx
+ 
+1. Daily Variation Plot vs Days 
+2. Day Min/Max
+3. Days Moving Average vs Days
+4. Daily % Variation Vs Days

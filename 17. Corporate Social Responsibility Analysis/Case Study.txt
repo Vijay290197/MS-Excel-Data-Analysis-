@@ -1,0 +1,16 @@
+#Analysis Requirement:
+
+THE EFFECT OF CORPORATE SOCIAL RESPONSIBILITY ON CUSTOMER LOYALTY, CUSTOMER SATISFACTION & CORPORATE IMAGE
+IN THE MALAYSIAN AUTOMOTIVE INDUSTRY 
+
+(Independent variable : Corporate Social Responsibility) 
+
+(Dependent variables : Customer loyalty, Customer satisfaction & Corporate Image) 
+
+Requirement: You need to have the overall analysis such as
+Reliability,
+Normality,
+Multicollinearity,
+All Factor Analysis,
+Regression Analysis,
+ANOVA, etc, and to form the results in report and analysis.
